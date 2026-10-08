@@ -1,2 +1,2 @@
-#Firman Nuryaman
-#3B Informatika
+Firman Nuryaman
+3B Informatika
