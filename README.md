@@ -1,5 +1,5 @@
 # Welcome to my repository
-Sebuah website landing page sederhana yang mengexplore beberapa wisata destinasi yang ada di daerah majalengka.
+Sebuah website landing page sederhana yang mengexplore beberapa wisata destinasi yang berada di daerah majalengka.
 
 # Build with
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
