@@ -1,5 +1,5 @@
 # Welcome to my repository
-Sebuah website landing page sederhana yang mengexplore beberapa wisata destinasi yang berada di daerah majalengka.
+
 
 # Build with
 - html
