@@ -1,7 +1,7 @@
 # Welcome to my repository
--# Firman Nuryaman
--# Informatika 3B
--# FT - UNMA
+# - Firman Nuryaman
+# - Informatika 3B
+# - FT - UNMA
 
 # Build with
 - html
